@@ -1,0 +1,10 @@
+# Environment variables
+.env
+.env.example
+.env.local
+# Data directory (if using local volume)
+data/
+
+# Backup files
+*.sql
+*.dump
